@@ -1,4 +1,4 @@
-#Stock Price Predictor Model 
+# Stock Price Predictor Model 
 
 ##Introduction
 
